@@ -19,5 +19,4 @@
 [linkedin]: https://www.linkedin.com/in/taoufiq-lotfi-2365094b/
 [instagram]: https://www.instagram.com/taoufiqlotfi/
 ## Some of my Github Stats
-[![Github stats](https://github-readme-stats.vercel.app/api?username=tao101&show_icons=true&include_all_commits=true)](https://github.com/yermakovaa/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tao101&layout=compact)](https://github.com/yermakovaa/github-readme-stats)
