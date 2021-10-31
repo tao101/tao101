@@ -19,4 +19,5 @@
 [linkedin]: https://www.linkedin.com/in/taoufiq-lotfi-2365094b/
 [instagram]: https://www.instagram.com/taoufiqlotfi/
 ## Some of my Github Stats
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=tao101) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tao101&layout=compact)](https://github.com/yermakovaa/github-readme-stats)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=tao101) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tao101)](https://github.com/yermakovaa/github-readme-stats)
