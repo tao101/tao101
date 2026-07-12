@@ -1,4 +1,4 @@
-```yaml
+```makefile
                                                        taoufiq@lotfi ───────────────────────────────────────────
        ◆░▒▓██▓▒░◆░▒▓██▓▒░◆░▒▓██▓▒░◆░▒▓██▓▒░◆           . OS: ..... Ubuntu, Debian, macOS, self-hosted everything
              ████████╗ █████╗  ██████╗                 . Uptime: .................... 12+ years of shipping code
@@ -12,7 +12,7 @@
                  ╚██║██║██╔██║╚██║                     . Languages.Mobile: .................. React Native, Expo
                   ██║████╔╝██║ ██║                     . Languages.Backend: .............. Node, NestJS, GraphQL
                   ██║╚██████╔╝ ██║                     . Languages.Database: ..... PostgreSQL, MongoDB, Supabase
-                  ╚═╝ ╚═════╝  ╚═╝                     . Languages.Real: ............... Arabic, French, English
+                  ╚═╝ ╚═════╝  ╚═╝                     . Languages.Real: ....................... English, Arabic
        ◆░▒▓██▓▒░◆░▒▓██▓▒░◆░▒▓██▓▒░◆░▒▓██▓▒░◆           .
                                                        . Hobbies.Software: ...... Self-Hosting {Dokploy/Coolify}
        MA ▸ UA ▸ MD — 3 countries, 1 terminal          . Hobbies.Hardware: . Homelab, Hetzner fleet, GPU compute
