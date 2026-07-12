@@ -24,10 +24,10 @@
    night owl · mint-tea powered · homelab-warmed       . ParliamentConnect: .................. 98% ML speaker ID
                                                        . EveryRun: ............... 80 → 17,659 users as solo dev
                                                        .
-         ◆·◆         ◆·◆         ◆·◆         ◆·◆       - Contact ───────────────────────────────────────────────
-       ◆·░▒░·◆     ◆·░▒░·◆     ◆·░▒░·◆     ◆·░▒░       . Email: ........................ admin@taoufiqlotfi.tech
-     ◆·░▒▓█▓▒░·◆ ◆·░▒▓█▓▒░·◆ ◆·░▒▓█▓▒░·◆ ◆·░▒▓█▓       . LinkedIn: ................ linkedin.com/in/taoufiqlotfi
-       ◆·░▒░·◆     ◆·░▒░·◆     ◆·░▒░·◆     ◆·░▒░       . Website: ............................. taoufiqlotfi.com
+                                                       - Contact ───────────────────────────────────────────────
+                                                       . Email: ........................ admin@taoufiqlotfi.tech
+                                                       . LinkedIn: ................ linkedin.com/in/taoufiqlotfi
+                                                       . Website: ............................. taoufiqlotfi.com
                                                        .
                                                        - GitHub Stats ──────────────────────────────────────────
                                                        . Repos: .................... 60 public {Contributed: 22}
