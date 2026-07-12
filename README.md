@@ -32,5 +32,5 @@
                                                        . Repos: .................... 60 public {Contributed: 22}
                                                        . Commits: ................. 10,299+ | npm: <a href="https://www.npmjs.com/package/supabase-sync">supabase-sync</a>
 
-<b>taoufiq@lotfi</b>:~$ ./build --ship-it █
+<b>admin@taoufiqlotfi.tech</b>:~$ ./build --ship-it █
 </pre>
