@@ -37,5 +37,3 @@ admin@taoufiqlotfi.tech:~$ ./build --ship-it █
 ```
 
 <p align="center"><a href="mailto:admin@taoufiqlotfi.tech">Email</a> · <a href="https://www.linkedin.com/in/taoufiqlotfi">LinkedIn</a> · <a href="https://www.taoufiqlotfi.com">Website</a></p>
-
-<p align="center">صُنع بحُب في المغرب · made with love in Morocco 🇲🇦</p>
