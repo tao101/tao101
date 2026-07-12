@@ -35,4 +35,4 @@
 admin@taoufiqlotfi.tech:~$ ./build --ship-it █
 ```
 
-<p align="center"><a href="mailto:admin@taoufiqlotfi.tech">Email</a> · <a href="https://www.linkedin.com/in/taoufiqlotfi">LinkedIn</a> · <a href="https://www.taoufiqlotfi.com">Website</a> · <a href="https://www.ukraineshelter.com">UkraineShelter</a> · <a href="https://lifelineukraine.com">Lifeline Ukraine</a> · <a href="https://euvsdisinfo.eu">EUvsDisinfo</a> · <a href="https://parliamentconnect.com">ParliamentConnect</a> · <a href="https://everyrun.app">EveryRun</a> · <a href="https://www.npmjs.com/package/supabase-sync">supabase-sync</a></p>
+<p align="center"><a href="mailto:admin@taoufiqlotfi.tech">Email</a> · <a href="https://www.linkedin.com/in/taoufiqlotfi">LinkedIn</a> · <a href="https://www.taoufiqlotfi.com">Website</a></p>
